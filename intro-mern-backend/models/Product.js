@@ -1,4 +1,4 @@
-const mongooose = require('mongoose')
+const mongoose = require('mongoose')
 
 const Schema = mongoose.Schema
 
@@ -12,4 +12,4 @@ const ProductSchema = Schema({
   timestamps: true
 })
 
-module.exports = mongooose.model('Products', ProductSchema)
+module.exports = mongoose.model('Products', ProductSchema)
