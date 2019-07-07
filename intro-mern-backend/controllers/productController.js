@@ -16,6 +16,11 @@ async function addProduct (req, res) {
       description
     })
 
+    if (req.file) {
+      const { filename } = req.file
+      product.setImgUrl(filename)
+    }
+
     const productStored = await product.save()
 
     res.status(201).send({ productStored })
