@@ -1,0 +1,12 @@
+1 - Jeararquia componentes
+
+ProductLayout
+  Header
+  AddButton
+  ListProducts
+    Loading
+    Product
+
+2 - crear version estatica componentes
+
+3 - representacion del estado de la app

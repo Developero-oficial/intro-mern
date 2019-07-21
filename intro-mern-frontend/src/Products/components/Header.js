@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from "prop-types";
 import { Container, Section } from 'react-bulma-components'
 
 const Header = ({ title }) => {
@@ -9,6 +10,10 @@ const Header = ({ title }) => {
       </Container>
     </Section>
   )
+}
+
+Header.propTypes = {
+  title: PropTypes.string.isRequired
 }
 
 export default Header
