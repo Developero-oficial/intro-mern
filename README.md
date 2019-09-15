@@ -21,6 +21,8 @@ Temas:
 ## Frontend
 Tecnologías: React js con hooks, Bulma css.
 
+Temas:
+
 - [Inicar app con create react app.](https://www.youtube.com/watch?v=L6mXMVM2u9A&list=PLkr7dGY4D2sOFts538pghxWaabulH2kMU&index=12 "Inicar app con create react app.")
 - [Buenas prácticas con React al desarrollar el layout.](https://www.youtube.com/watch?v=HFIB_5QQUsM&list=PLkr7dGY4D2sOFts538pghxWaabulH2kMU&index=13 "Buenas prácticas con React al desarrollar el layout.")
 - [React hooks: useState.](https://www.youtube.com/watch?v=3UVRlbxlF0g&list=PLkr7dGY4D2sOFts538pghxWaabulH2kMU&index=14 "React hooks: useState.")
