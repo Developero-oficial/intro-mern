@@ -1,8 +1,6 @@
 # intro-mern
 Desarrollo de una app con MongoDB, Expressjs, Reactjs and Nodejs (MERN) stack. 
 
-Temas:
-
 ## Backend
 Tecnologías: Node js, Express js, MongoDB y Mongoose.
 
